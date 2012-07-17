@@ -321,7 +321,7 @@
   <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
   
   <!-- VivowJB -->
-  <project name="CyanogenMod/android_device_htc_msm7x30-common" path="device/htc/msm7x30-common" />
+  <project name="VivowJB/android_device_htc_msm7x30-common" path="device/htc/msm7x30-common" />
   <project name="CyanogenMod/android_device_htc_common" path="device/htc/common" revision="gingerbread" />
   <project name="VivowJB/android_device_htc_vivow" path="device/htc/vivow" />
   <project name="aeroevan/proprietary_vendor_htc" path="vendor/htc" revision="ics" />
