@@ -327,7 +327,7 @@
   
   <project path="hardware/qcom/audio" name="VivowJB/android_hardware_qcom_audio" />
   
-  <project path="frameworks/base" name="VivowJB/android_frameworks_base" />
+  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
   <project path="frameworks/native" name="VivowJB/android_frameworks_native" />
   <project path="vendor/cm" name="VivowJB/android_vendor_cm" />
 
